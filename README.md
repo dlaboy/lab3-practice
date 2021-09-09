@@ -1,2 +1,2 @@
 # lab3-practice  
-Good morning people!
+Good afternoon people!
